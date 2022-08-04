@@ -1,9 +1,0 @@
-O que é React?
-* Biblioteca para criar inferfaces de usuários.
-(Consigo fazer interface web,mobile,smartwatch)
-* Aprendendo uma vez, podemos migrar para mobile, smartwatch. Pois os conceitos são os mesmos.
-
-
-Conceitos de componentes
-* Contruimos as nossas aplicações como se fosse peças de lego
-* Podemos trabalhar com componentes em equipe, pois eles ficam separados como peças no final essas peças se unem.
